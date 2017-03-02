@@ -3,5 +3,5 @@ Check CPU Usage
 
 Example:
 ```
-./check_cpu -w 80 -c 90
+./check_cpu.sh -w 80 -c 90
 ```
